@@ -1,7 +1,8 @@
 # Phase 2 Project
 ## Predicting House Sale Prices in King County
 
-![awesome](images\brian-babb-XbwHrt87mQ0-unsplash.jpg)
+![brian-babb-XbwHrt87mQ0-unsplash](https://user-images.githubusercontent.com/113230957/207705359-04d58d9c-cfe2-4245-bb80-5d7171ba10ab.jpg)
+mages\brian-babb-XbwHrt87mQ0-unsplash.jpg)
 
 
 
@@ -36,31 +37,37 @@ White Oak Realty is a real estate company based in Vancouver, Washington DC that
 ### Overview of the Dataset
 <br>
 
-![awesome](images\data.PNG)
+![data](https://user-images.githubusercontent.com/113230957/207705432-fe6a4bd6-1ee6-4a34-8861-8cd6b0fd4307.PNG)
+data.PNG)
 
 ## Summary of EDA
 
 1. Distribution of Prices
 <br>
-![](images\price_distribution.PNG)
+![price_distribution](https://user-images.githubusercontent.com/113230957/207705471-23965adf-f95c-440b-aba1-31b585ec64cb.PNG)
+on.PNG)
 <br>
 2. Features
 <br>
 
-![](images\features1.PNG)
+![features1](https://user-images.githubusercontent.com/113230957/207705494-a4f5976b-7bde-41c9-b77d-704f38e12d1f.PNG)
+PNG)
 <br>
+![features2](https://user-images.githubusercontent.com/113230957/207705581-d638a228-ed87-4857-b280-8fb82653fec1.PNG)
 
-![](images\features2.PNG)
+
 <br>
 
 ## Final Model
 The final model performed very well employing methods such as log transformations on numerical variables and in the end selecting the best features by running a sequence of models and dropping features based on their p-values to finally arrive at the features with the most significant relationship with price.
 
+![lr](https://user-images.githubusercontent.com/113230957/207705778-f76c11eb-6693-415f-af73-9284fc50e2d8.PNG)
 
 ## Summary of Findings 
 <br>
 
-![](images\conclusion.PNG)
+![conclusion](https://user-images.githubusercontent.com/113230957/207705719-e9406ffd-3e64-444c-9f04-2b1708dc443b.PNG)
+
 
 
 <a href="https://github.com/AmanyaKaren/dsc-phase-2-project/blob/main/data/student.ipynb">See more on this project - Link to Jupyter Notebook</a><br>
